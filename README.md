@@ -10,13 +10,13 @@ Blogify is a web application that allows authenticated users to create, view, an
 - Comment System: Users can leave comments on blogs.
 - Responsive Design: The application is designed to work well on both desktop and mobile devices.
 
-## Technologies Used
+## Technologies Used 
 
 - Node.js
 - Express.js
 - MongoDB
 - EJS (Embedded JavaScript)
--crypto for password hashing
+- crypto for password hashing
 - Bootstrap for styling
 
 ## Prerequisites
