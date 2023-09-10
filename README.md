@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
- # Blogify - A Blogging Application
+# Blogify - A Blogging Application
 
 Blogify is a web application that allows authenticated users to create, view, and comment on blogs. It's built using Express.js for the backend, MongoDB for the database, and EJS (Embedded JavaScript) for the frontend templates.
 
@@ -27,9 +25,3 @@ Blogify is a web application that allows authenticated users to create, view, an
 - MongoDB installed and running
 
 
-=======
-# Blogify
->>>>>>> ac66e9484d88fc13a416fc7360e64de2d1e331bc
-=======
-# Blogify
->>>>>>> 469f8bf8f9c8f75d66fb8128f7456ec12709f265
