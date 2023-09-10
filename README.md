@@ -16,6 +16,7 @@ Blogify is a web application that allows authenticated users to create, view, an
 - Express.js
 - MongoDB
 - EJS (Embedded JavaScript)
+  
 -crypto for password hashing
 - Bootstrap for styling
 
